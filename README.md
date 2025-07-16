@@ -42,7 +42,7 @@ Using R and several text mining libraries, this analysis breaks down presidentia
 * Build document-term matrices representing word counts per speech or year
 * Use LDA to discover 12 latent topics across all speeches, by year, and by party affiliation (Democrats and Republicans)
 
-### 3. Visualization
+### 3. Visualization 📉
 
 * Extract top words associated with each topic
 * Plot relevant terms per topic using bar charts for intuitive analysis
